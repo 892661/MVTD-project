@@ -23,11 +23,6 @@ The project is based on two manuscript witnesses:
 
 Digital reproductions are available in the `images` folder.
 
-## Manuscript Witnesses
-
-### Prague D.54
-
-
 ## Data Modelling
 
 The witnesses were encoded according to the TEI Guidelines.
@@ -54,7 +49,8 @@ METTI ESEMPIO
 
 The project uses a custom ODD specification (`hildessen.odd`) together with a TEI Publisher template (`expansions_template.XHT`).
 
-The encoded text was visualized through TEI Publisher.
+The encoded text was visualized through TEI Publisher. Here's the link to the final visualization:
+http://localhost:8080/exist/apps/tei-publisher/test/Hildessen_xml.xml?view=div&odd=Hildessen%2520deff&template=facsimile.html 
 
 ## Repository Structure
 
